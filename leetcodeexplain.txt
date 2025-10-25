@@ -1,0 +1,36 @@
+
+A LeetCode-compatible Java solution is a Java code 
+snippet that you can copy and paste directly 
+into the LeetCode editor — and it will compile 
+and run successfully without any modifications.
+
+LeetCode provides a pre-defined environment, which means:
+
+You don’t include a 
+public static void main(String[] args) method.
+
+You don’t use Scanner or any input prompts 
+(System.out.print(...)).
+
+You only define a class named Solution with one or 
+more public methods that solve the problem.
+
+LeetCode automatically runs your method with different 
+inputs during testing.
+
+OneCompiler is an IDE online but you can't 
+run java without main method you need leetcode for that
+
+Good Online IDEs for Java
+
+JDoodle — a browser-based multi-language IDE, supports Java. 
+JDoodle
++2
+Wikipedia
++2
+
+OneCompiler — Java online compiler/editor with support for latest JDK. 
+OneCompiler
+
+Programiz Online Compiler — simple online Java compiler/editor. 
+Programiz
